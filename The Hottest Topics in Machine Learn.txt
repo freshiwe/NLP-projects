@@ -1,0 +1,9 @@
+The Hottest Topics in Machine Learning
+Overview
+This project leverages Natural Language Processing (NLP) techniques to analyze papers from the Conference on Neural Information Processing Systems (NIPS). The goal is to uncover and highlight the trendiest topics in the field of machine learning based on the content of these influential papers.
+Features
+Topic Extraction: Utilizes state-of-the-art NLP techniques to extract and identify prominent topics discussed in NIPS papers.
+
+Trend Analysis: Analyzes the frequency and evolution of these topics over time, providing insights into the dynamic nature of machine learning research.
+
+Visualization: Generates visually appealing graphs and charts to help users easily grasp the trends and patterns within the NIPS papers.
